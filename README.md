@@ -10,6 +10,9 @@ A simple application that simulates clicking the left mouse button. You can set 
 5. Input CPS
 6. Enable and disable it with the buttons selected before
 
+# Legal
+Developer assume no liability and are not responsible for any misuse or damage caused by FRCLICKER. Only use for educational purposes! Don't use it to gain advantage in any competitions.
+
 # Author
 Filip Rokita<br/>
 www.filiprokita.com
